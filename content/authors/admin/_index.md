@@ -59,32 +59,28 @@ education:
     date_start: 2016-03-06
     date_end: 2022-07-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on STRATEGIC PLANNING MODELS FOR ENERGY SYSTEMS UNDER UNCERTINTY. Supervised by [Tito Homem-de-Mello](https://negocios.uai.cl/profesor/tito-homem-mello/) and [Frédéric Babonneau](https://www.linkedin.com/in/babonneau/?originalSubdomain=cl).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://github.com/Esnilg/Datos/blob/main/Esnil_tesis_v4.pdf'
   - area: Magíster en Ciencias de la Computación
     institution: Simón Bolívar
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2009-09-01
+    date_end: 2014-07-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on ALGORITMO DE PUNTOS INTERIORES DE BAJO COSTO APLICADO AL PROBLEMA DE MÁQUINAS DE SOPORTE VECTORIAL. Supervised by [Maria D. Gonzalez-Lima](https://www.researchgate.net/profile/Maria-Gonzalez-Lima).
+    button:
+      text: 'Read Thesis'
+      url: 'https://github.com/Esnilg/Datos/blob/main/Tesis_Esnil_G_V1.pdf'
   - area: Licenciado en Matemática
     institution: Universidad de Carabobo
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2002-09-01
+    date_end: 2008-12-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on COMPARACION DE TECNICAS DE PLE PARA EL PROBLEMA DE MOCHILA MULTIPLE CON COLORES CON APLICACION A LA DISTRIBUCION DE VEHICULOS NUEVOS EN VENEZUELA. Supervised by [Victor Griffin](https://www.researchgate.net/profile/Victor-Griffin-2).
+    button:
+      text: 'Read Thesis'
+      url: 'https://github.com/Esnilg/Datos/blob/main/uprmthesis_mainfile_esp.pdf'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
