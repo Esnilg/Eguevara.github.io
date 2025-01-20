@@ -34,15 +34,15 @@ profiles:
     url: 'mailto:esnilg@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/esnilg
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/esnilg/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Esnilg
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/esnil-guevara-8506771a3/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.es/citations?user=NKoAkmIAAAAJ&hl=es&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/
 
