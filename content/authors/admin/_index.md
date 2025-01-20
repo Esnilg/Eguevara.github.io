@@ -48,21 +48,23 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Stochastic Optimization
+  - Data Sciencie
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Ingeniería Industrial e Investigación de Operaciones
+    institution: Adolfo Ibáñez
+    date_start: 2016-03-06
+    date_end: 2022-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Magíster en Ciencias de la Computación
+    institution: Simón Bolívar
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Licenciado en Matemática
+    institution: Universidad de Carabobo
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
