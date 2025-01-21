@@ -55,7 +55,7 @@ interests:
 
 education:
   - area: PhD Ingeniería Industrial e Investigación de Operaciones
-    institution: Adolfo Ibáñez
+    institution: Universidad Adolfo Ibáñez
     date_start: 2016-03-06
     date_end: 2022-07-01
     summary: |
@@ -64,7 +64,7 @@ education:
       text: 'Read Thesis'
       url: 'https://github.com/Esnilg/Datos/blob/main/Esnil_tesis_v4.pdf'
   - area: Magíster en Ciencias de la Computación
-    institution: Simón Bolívar
+    institution: Universidad Simón Bolívar
     date_start: 2009-09-01
     date_end: 2014-07-01
     summary: |
