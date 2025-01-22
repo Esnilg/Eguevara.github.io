@@ -6,11 +6,19 @@ authors:
 - Fréderic Babonneau
 - Tito Homem-de-Mello
 - Stefano Moret
+
+# Author notes (optional)
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
+
 date: '2020-01-01'
 publishDate: '2025-01-21T20:56:33.882282Z'
 publication_types:
 - article-journal
 publication: '*Applied Energy*'
+#publication_short: In *ICW*
+
 doi: https://doi.org/10.1016/j.apenergy.2020.115005
 abstract: This paper investigates how the choice of stochastic approaches and distribution
   assumptions impacts strategic investment decisions in energy planning problems.
@@ -25,12 +33,20 @@ abstract: This paper investigates how the choice of stochastic approaches and di
   tractability. Finally, we perform an out-of-sample simulation process to evaluate
   solutions performances. The Swiss energy system is used as a case study all along
   the paper to validate the approach.
+
+# Summary. An optional shortened abstract.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags:
 - Strategic energy planning
 - Electricity generation
 - Uncertainty
 - Distributionally robust optimization
 - Machine learning
+
+# Display this page in the Featured widget?
+featured: true
+
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0306261920305171
