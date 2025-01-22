@@ -90,10 +90,11 @@ work:
     date_end: '2023-04-01'
     summary: |2-
       Responsibilities include:
-      - Apliqué técnicas de análisis de datos y de Machine Learning. 
-      - Desarrollé modelos de comportamiento de pago de los clientes, Stock de Seguridad, Cross Selling, Forecast estadísticos, Supply Chain, Slotting, proyección de inventario por mencionar algunos ejemplos. 
-      - También desarrollé varios paneles a través de Power BI en diferentes areas de la empresa.
-  - position: Backend Software Engineer
+      - Análisis de datos
+      - Despliegue de modelos de Machine Learning. (Comportamiento de pago de los clientes, Forecasting) 
+      - Desarrollo modelos matemáticos. (Stock de Seguridad, Cross Selling, Supply Chain, Slotting, Proyección de inventario)
+      - Desarrollar paneles a través de Power BI en diferentes areas de la empresa.
+  - position: Analista de modelos del Sistema de Soporte de Decisión
     company_name: Laboratorios Vargas S.A.
     company_url: 'https://www.laboratoriosvargas.com/'
     company_logo: 'https://www.laboratoriosvargas.com/wp-content/uploads/2021/01/Logo-Footer-Shadow.png'
@@ -101,9 +102,11 @@ work:
     date_end: 2014-09-01
     summary: |
       Responsibilities include:
-      - Estuve a cargo del análisis de demanda de los producto farmacéuticos e indicadores de ventas
-      - Creando modelos predictivos a través de herramientas de machine learning, con el fin de entregar a la empresa un plan de producción anual. 
-      - También, entregaba reportes de la disponibilidad de la materia prima y velaba por el cumplimiento de las metas establecidas de producción.
+      - Análisis de demanda de los producto farmacéuticos e indicadores de ventas
+      - Despliegue de modelos de Machine Learning.
+      - Crear plan de producción anual de la empresa. 
+      - Entregar reportes de la disponibilidad y vencimiento de la materia prima.
+      - Velar por el cumplimiento de las metas establecidas de producción.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,6 +117,18 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: R
+        description: ''
+        percent: 60
+        icon: code-bracket
+      - name: Julia
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: Matlab
+        description: ''
+        percent: 40
+        icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
@@ -122,22 +137,10 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-      - name: R
-        description: ''
-        percent: 60
-        icon: circle-stack
-      - name: Julia
-        description: ''
-        percent: 40
-        icon: circle-stack
-      - name: Matlab
-        description: ''
-        percent: 40
-        icon: circle-stack
       - name: Power BI
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
