@@ -107,6 +107,16 @@ work:
       - Crear plan de producción anual de la empresa. 
       - Entregar reportes de la disponibilidad y vencimiento de la materia prima.
       - Velar por el cumplimiento de las metas establecidas de producción.
+  - position: Pasantía
+    company_name: Base Logística Aragua
+    company_url: ''
+    company_logo: ''
+    date_start: 2007-02-01
+    date_end: 2007-12-01
+    summary: |
+      Responsibilities include:
+      - Realizar estudios de la base de datos actual.
+      - Homogenizar y depurar de los datos faltantes, mediante una interfaz gráfica que conecta R y MySQL.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
