@@ -148,15 +148,15 @@ skills:
       - name: Viajes
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: 'custom/plane'
       - name: Comidas
         description: ''
         percent: 100
-        icon: cat
+        icon: 'custom/utensils'
       - name: Musica
         description: ''
         percent: 80
-        icon: 'custom/plane'
+        icon: 'custom/guitar'
 
 languages:
   - name: Español
