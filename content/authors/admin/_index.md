@@ -156,7 +156,7 @@ skills:
       - name: Musica
         description: ''
         percent: 80
-        icon: plane
+        icon: plane.svg
 
 languages:
   - name: Español
