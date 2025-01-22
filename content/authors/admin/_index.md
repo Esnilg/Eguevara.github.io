@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.es/citations?user=NKoAkmIAAAAJ&hl=es&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-1595-9044
 
 interests:
   - Artificial Intelligence
@@ -82,28 +82,28 @@ education:
       text: 'Read Thesis'
       url: 'https://github.com/Esnilg/Datos/blob/main/uprmthesis_mainfile_esp.pdf'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Analista de Inteligencia de Negocios
+    company_name: Suministros Telefónicos y Computacionales ESTEC LTDA
+    company_url: 'https://www.estec.cl/'
+    company_logo: 'https://www.estec.cl/media/logo/stores/1/estec_logo_G.png'
+    date_start: 2021-03-01
+    date_end: '2023-04-01'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Apliqué técnicas de análisis de datos y de Machine Learning. 
+      - Desarrollé modelos de comportamiento de pago de los clientes, Stock de Seguridad, Cross Selling, Forecast estadísticos, Supply Chain, Slotting, proyección de inventario por mencionar algunos ejemplos. 
+      - También desarrollé varios paneles a través de Power BI en diferentes areas de la empresa.
   - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    company_name: Laboratorios Vargas S.A.
+    company_url: 'https://www.laboratoriosvargas.com/'
+    company_logo: 'https://www.laboratoriosvargas.com/wp-content/uploads/2021/01/Logo-Footer-Shadow.png'
+    date_start: 2013-06-01
+    date_end: 2014-09-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Estuve a cargo del análisis de demanda de los producto farmacéuticos e indicadores de ventas
+      - Creando modelos predictivos a través de herramientas de machine learning, con el fin de entregar a la empresa un plan de producción anual. 
+      - También, entregaba reportes de la disponibilidad de la materia prima y velaba por el cumplimiento de las metas establecidas de producción.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,28 +122,44 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+        - name: R
+        description: ''
+        percent: 60
+        icon: circle-stack
+        - name: Julia
+        description: ''
+        percent: 40
+        icon: circle-stack
+        - name: Matlab
+        description: ''
+        percent: 40
+        icon: circle-stack
+        - name: Power BI
+        description: ''
+        percent: 40
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Viajes
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Comidas
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Musica
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Español
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: English
+    percent: 50
   - name: Portuguese
     percent: 25
 
