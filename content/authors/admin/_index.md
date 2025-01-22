@@ -156,7 +156,7 @@ skills:
       - name: Musica
         description: ''
         percent: 80
-        icon: stacked-peaks.svg
+        icon: plane
 
 languages:
   - name: Español
