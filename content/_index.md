@@ -35,11 +35,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Como investigador y docente en la Universidad Finis Terrae, mi investigación se centra en la aplicación de técnicas avanzadas de análisis de datos y modelos predictivos para mejorar la toma de decisiones tanto en el ámbito empresarial como en la vida cotidiana de las personas.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        En el contexto empresarial, mi trabajo se enfoca en desarrollar y optimizar modelos de aprendizaje supervisado y no supervisado que permitan a las empresas predecir tendencias de mercado, segmentar clientes de manera efectiva y mejorar la eficiencia operativa. Por ejemplo, utilizo algoritmos de clustering para identificar grupos de clientes con comportamientos similares, lo que permite a las empresas diseñar estrategias de marketing más personalizadas y efectivas.
+
+        En el ámbito personal, mi investigación busca democratizar el uso de herramientas de análisis de datos para que las personas puedan tomar decisiones más informadas en su vida diaria. Esto incluye el desarrollo de aplicaciones y tutoriales que permitan a los usuarios comunes utilizar técnicas de data mining para analizar sus finanzas personales, optimizar sus hábitos de consumo, o incluso mejorar su salud mediante el análisis de datos de actividad física y nutrición.
+
+        Además, estoy interesado en la ética del uso de datos y en cómo las personas pueden proteger su privacidad mientras se benefician de las ventajas del análisis de datos. Esto implica investigar métodos de anonimización de datos y desarrollar guías prácticas para que los usuarios comprendan y controlen cómo se utilizan sus datos.
+
+        En resumen, mi investigación no solo se limita a mejorar los procesos empresariales, sino que también busca empoderar a las personas comunes con herramientas y conocimientos que les permitan aprovechar la información que brinda los datos para mejorar su calidad de vida.
     design:
       columns: '1'
   - block: collection
