@@ -122,19 +122,19 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-        - name: R
+      - name: R
         description: ''
         percent: 60
         icon: circle-stack
-        - name: Julia
+      - name: Julia
         description: ''
         percent: 40
         icon: circle-stack
-        - name: Matlab
+      - name: Matlab
         description: ''
         percent: 40
         icon: circle-stack
-        - name: Power BI
+      - name: Power BI
         description: ''
         percent: 40
         icon: circle-stack
