@@ -35,9 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Como investigador y docente en la Universidad Finis Terrae, mi investigación se centra en la aplicación de técnicas avanzadas de análisis de datos y modelos predictivos para mejorar la toma de decisiones tanto en el ámbito empresarial como en la vida cotidiana de las personas.
+        Como investigador y docente, mi investigación se centra en la aplicación de técnicas avanzadas de análisis de datos y modelos predictivos para mejorar la toma de decisiones tanto en el ámbito empresarial como en la vida cotidiana de las personas.
 
-        En el contexto empresarial, mi trabajo se enfoca en desarrollar y optimizar modelos de aprendizaje supervisado y no supervisado que permitan a las empresas predecir tendencias de mercado, segmentar clientes de manera efectiva y mejorar la eficiencia operativa. Por ejemplo, utilizo algoritmos de clustering para identificar grupos de clientes con comportamientos similares, lo que permite a las empresas diseñar estrategias de marketing más personalizadas y efectivas.
+        En el contexto empresarial, mi trabajo se enfoca en desarrollar y optimizar modelos de aprendizaje supervisado y no supervisado que permitan a las empresas predecir tendencias de mercado, segmentar clientes de manera efectiva y mejorar la eficiencia operativa. Por ejemplo, utilizo algoritmos de clustering para identificar grupos de clientes con comportamientos similares, lo que permite a las empresas diseñar estrategias de marketing más personalizadas y efectivas. Tambien, he aplicado técnicas de optimización estocástica en contexto de demanda y costos de operaciones inciertos para fortalecer la toma de decisiones estratégicas, evaluando mediante distintos escenarios la soluciones estratégicas para garantizar soluciones robustas y adaptables.
+
 
         En el ámbito personal, mi investigación busca democratizar el uso de herramientas de análisis de datos para que las personas puedan tomar decisiones más informadas en su vida diaria. Esto incluye el desarrollo de aplicaciones y tutoriales que permitan a los usuarios comunes utilizar técnicas de data mining para analizar sus finanzas personales, optimizar sus hábitos de consumo, o incluso mejorar su salud mediante el análisis de datos de actividad física y nutrición.
 
